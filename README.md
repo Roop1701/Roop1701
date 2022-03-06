@@ -7,7 +7,7 @@
 A pre-final year student, pursing B.TECH in Computer Science & Engineering from Sister Nivedita University, Kolkata. I am also the Vice-President of GeeksforGeeks Chapter of my University. I am a Web and Mobile Dev Enthusiast. 
 My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs || TypeScript || Java
 
-</h5>
+<!-- </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
 <p>
 <a align= "center" href="https://github.com/Roop1701">
@@ -36,4 +36,4 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 </p>
 <p align="center">
          My contributions ☝️
-</p> -->
+</p> --> -->
