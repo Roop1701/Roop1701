@@ -6,7 +6,7 @@
 A pre-final year student, pursing B.TECH in Computer Science & Engineering from Sister Nivedita University, Kolkata. I am also the Vice-President of GeeksforGeeks Chapter of my University. I am a Web and Mobile Dev Enthusiast. 
 My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs || TypeScript || Java
 </h5>
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Roop1701&style=flat)" alt="RoopKrChatterjee" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Roop1701&color=green)" alt="RoopKrChatterjee" /> </p>
 <p> 
 <!-- <a align= "center" href="https://github.com/Roop1701">
 <img alt= "stats card" height="200px" width="400" src="">
