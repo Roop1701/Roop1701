@@ -12,7 +12,7 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 <img alt= "stats card" height="200px" width="400" src="">
 <img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
 </p>
-<!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" /> -->
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Roop1701&count_private=true&theme=radical&show_icons=true" />
 
  <!-- <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
 
