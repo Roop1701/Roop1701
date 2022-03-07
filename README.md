@@ -6,15 +6,14 @@
 <!-- A 3rd-year student pursuing Bachelors in Electronics and Communications with a keen interested in Computer Science, from Kolkata,India. I am a Web dev Enthusiast with certain interests in Digital Marketing, Graphic Designing and much more!! -->
 A pre-final year student, pursing B.TECH in Computer Science & Engineering from Sister Nivedita University, Kolkata. I am also the Vice-President of GeeksforGeeks Chapter of my University. I am a Web and Mobile Dev Enthusiast. 
 My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs || TypeScript || Java
-
-<!-- </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
-<p>
+</h5>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
+<p> -->
 <a align= "center" href="https://github.com/Roop1701">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikseal&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roop1701&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)">
 <img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
+<!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
 
@@ -31,9 +30,10 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 
 <hr>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github.com/prantikseal/prantikseal/raw/output/github-contribution-grid-snake.svg" alt="snake_eating_my_contributions 😂"></center>
 </p>
 <p align="center">
          My contributions ☝️
-</p> --> -->
+</p> 
+ -->
