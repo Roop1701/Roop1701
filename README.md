@@ -22,9 +22,9 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/roop_chatterjee" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/roop-kumar-chatterjee-110a53181/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/roopkumarchatterjee/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a>
+<a href="https://twitter.com/roop_chatterjee" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/roop-kumar-chatterjee-110a53181/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/roopkumarchatterjee/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a>
 </p>
 
 <hr>
