@@ -10,7 +10,7 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantikseal&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
 <p> -->
 <a align= "center" href="https://github.com/Roop1701">
-<img alt= "stats card" height="200px" width="400" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roop1701&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)">
+<img alt= "stats card" height="200px" width="400" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roop1701&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)">
 <img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
 </p>
 <!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
