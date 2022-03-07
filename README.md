@@ -14,7 +14,7 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Roop1701&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/roop_chatterjee" target="blank"><img src="https://img.shields.io/twitter/follow/roop_chatterjee?logo=twitter&style=for-the-badge" alt="prantikseal" /></a>
+<p align="left"> <a href="https://twitter.com/roop_chatterjee" target="_blank"><img src="https://img.shields.io/twitter/follow/roop_chatterjee?logo=twitter&style=for-the-badge" alt="prantikseal" /></a>
 </p>
 
 - 📫 How to reach me **chatterjee.roopkumar17@gmail.com**
