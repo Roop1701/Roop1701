@@ -8,13 +8,13 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 </h5>
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Roop1701&color=green)" alt="RoopKrChatterjee" /> </p>
 <p> 
-<!-- <a align= "center" href="https://github.com/Roop1701">
+ <!-- <a align= "center" href="https://github.com/Roop1701">
 <img alt= "stats card" height="200px" width="400" src="">
 <img align="right" height="350" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=prantikseal&count_private=true&theme=radical&show_icons=true" />
 
-<!-- <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
+ <!-- <p align="left"> <a href="https://twitter.com/prantikseal" target="blank"><img src="https://img.shields.io/twitter/follow/prantikseal?logo=twitter&style=for-the-badge" alt="prantikseal" /></a> </p>
 
 - 📫 How to reach me **chatterjee.roopkumar17@gmail.com**
 <br><br>
@@ -27,11 +27,11 @@ My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs |
 <a href="https://www.instagram.com/roopkumarchatterjee/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Roop Kumar Chatterjee" height="50" width="50" /></a>
 </p>
 
-<hr>
+<hr>  -->
 
  <p align="center">
-  <img src="https://github.com/prantikseal/prantikseal/raw/output/github-contribution-grid-snake.svg" alt="snake_eating_my_contributions 😂"></center>
+  <img src="https://github.com/Roop1701/Roop1701/blob/output/github-contribution-grid-snake.gif" alt="Snake Contributor"></center>
 </p>
 <p align="center">
          My contributions ☝️
-</p>   -->
+</p>
