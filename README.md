@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Roop Kumar</h1>
 <h5 align="center">
-A pre-final year student, pursing B.TECH in Computer Science & Engineering from Sister Nivedita University, Kolkata. I am also the Vice-President of GeeksforGeeks Chapter of my University. I am a Web and Mobile Dev Enthusiast. 
+A pre-final year student, pursing B.TECH in Computer Science & Engineering from Sister Nivedita University, Kolkata. I am a Full Stack Developer Intern @TalkingLands and also the President of GeeksforGeeks Chapter of my University. I am a Web and Mobile Dev Enthusiast. 
 My Major Tech Stack is: Python || React || JavaScript || HTML || CSS || NodeJs || TypeScript || Java
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roop1701&label=Profile%20views&color=0e75b6&style=flat" alt="prantikseal" /> </p>
